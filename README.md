@@ -1,0 +1,1 @@
+# HedonicGames_SATsolving
